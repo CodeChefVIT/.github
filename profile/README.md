@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.codechefvit.com" target="_blank"><img src="./banner.gif" title="CodeChef-VIT" alt="Codechef-VIT"></a>
+<p align="center"><a href="https://www.codechefvit.com" target="_blank"><img src="./banner.png" title="CodeChef-VIT" alt="Codechef-VIT"></a>
 </p>
 
 <h4 align="center">CodeChef-VIT is a non-commercial organisation with a goal to provide a platform for programmers and developers everywhere to meet, compete & have fun. </h4>
