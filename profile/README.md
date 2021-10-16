@@ -1,6 +1,6 @@
-<p align="center"><a href="https://www.codechefvit.com" target="_blank"><img src="https://i.ibb.co/4J9LXxS/cclogo.png" title="CodeChef-VIT" alt="Codechef-VIT"></a>
+<p align="center"><a href="https://www.codechefvit.com" target="_blank"><img src="./banner.gif" title="CodeChef-VIT" alt="Codechef-VIT"></a>
 </p>
-<h2 align="center"> CodeChef-VIT </h2>
+
 <h4 align="center">CodeChef-VIT is a non-commercial organisation with a goal to provide a platform for programmers and developers everywhere to meet, compete & have fun. </h4>
 
 > At CodeChef-VIT, we believe in the words of Matt Mullenweg - “Technology is best when it brings people together”.
